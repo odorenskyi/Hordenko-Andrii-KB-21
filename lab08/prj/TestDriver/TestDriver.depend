@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651946812 source:c:\users\andrey\desktop\bmtp\hordenko-andrii-kb-21\lab08\testdriver\main.cpp
+	<iostream>
+	"ModulesGordenko.h"
+	<math.h>
+
