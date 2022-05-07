@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1651947454 source:c:\users\andrey\desktop\bmtp\hordenko-andrii-kb-21\lab08\gordenkotask\main.cpp
+	<iostream>
+	<cmath>
+	<locale>
+	<windows.h>
+	<string>
+	"ModulesGordenko.h"
+
