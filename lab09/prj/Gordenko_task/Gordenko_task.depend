@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1653593428 source:c:\users\andrey\desktop\bmtp\hordenko-andrii-kb-21\lab09\gordenko_task\main.cpp
+	<iostream>
+	<locale.h>
+	"ModulesGordenko.h"
+
+1653592021 c:\users\andrey\desktop\bmtp\hordenko-andrii-kb-21\lab09\prj\modulesgordenko\modulesgordenko.h
+
+1653668331 source:c:\users\andrey\desktop\bmtp\hordenko-andrii-kb-21\lab09\prj\gordenko_task\main.cpp
+	<iostream>
+	<locale.h>
+	"ModulesGordenko.h"
+
