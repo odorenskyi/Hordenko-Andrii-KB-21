@@ -99,7 +99,7 @@ void avtor_inf_and_random_num()
                 << "ЦНТУ, Кропивницький, Україна"      << endl
                 << "2022"                              << endl
                 << "---------------------------------" << endl << endl;
-        avt_inf << "Рандомне число: " << rand() << endl;
+        avt_inf << "Рандомне число: " << rand(10,100) << endl;
 
     }
     avt_inf.close();
