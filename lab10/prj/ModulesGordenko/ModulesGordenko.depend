@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1651945464 source:c:\users\andrey\desktop\bmtp\hordenko-andrii-kb-21\lab08\modulesgordenko\main.cpp
+	<math.h>
+
+1653593279 source:c:\users\andrey\desktop\bmtp\hordenko-andrii-kb-21\lab09\prj\modulesgordenko\main.cpp
+	<iostream>
+	<math.h>
+	<bitset>
+
+1654300531 source:c:\users\andrey\desktop\bmtp\hordenko-andrii-kb-21\lab10\prj\modulesgordenko\main.cpp
+	<iostream>
+	<math.h>
+	<bitset>
+	<fstream>
+	<ctime>
+	<time.h>
+	<windows.h>
+
